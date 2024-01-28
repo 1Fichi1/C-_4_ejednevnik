@@ -1,0 +1,14 @@
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\bin\Debug\net7.0\C#_4_ejednevnik.exe
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\bin\Debug\net7.0\C#_4_ejednevnik.deps.json
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\bin\Debug\net7.0\C#_4_ejednevnik.runtimeconfig.json
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\bin\Debug\net7.0\C#_4_ejednevnik.dll
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\bin\Debug\net7.0\C#_4_ejednevnik.pdb
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.AssemblyInfoInputs.cache
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.AssemblyInfo.cs
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.csproj.CoreCompileInputs.cache
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.dll
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\refint\C#_4_ejednevnik.dll
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.pdb
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\C#_4_ejednevnik.genruntimeconfig.cache
+C:\Users\batyr\source\repos\C#_4_ejednevnik\C#_4_ejednevnik\obj\Debug\net7.0\ref\C#_4_ejednevnik.dll
